@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  site-url: "https://stat205a.berkeley.edu/fall-2024"
   google-analytics: G-CBJ61F1891
   sidebar:
     style: docked
